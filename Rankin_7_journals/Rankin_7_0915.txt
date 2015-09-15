@@ -1,0 +1,1 @@
+An IDE is a simple program where everything is done, it's a program that comes with almost everything you'll need for the task at hand. The program provides tools for authoring, modifying, and much more for the software.
