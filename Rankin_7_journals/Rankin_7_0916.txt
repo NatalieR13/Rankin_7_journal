@@ -1,0 +1,5 @@
+If you tinker you will suceed, by helping others you will help yourself, and think computatively.
+
+It looks like getting your work done, staying on task, and tinkering and doing your best effort in CS.
+
+If a student encounters a problem and a command is not working, the first step is always going to be to tinker. Look for any errors you could have made and check the error message below the command to see if that can help you. From there, the rest is trying to solve it by yourself, then asking for additional help when all else fails. This relates to Perkins by describing  how they solve problems by tinkering.
