@@ -1,0 +1,8 @@
+The five data types are
+1. float
+2. short,long,double
+3. char
+4. string
+5. boolean
+
+They are used for helping us program and code while using things such as NetBeans.
